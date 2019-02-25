@@ -1,0 +1,60 @@
+body {
+    font-family: 'Slabo 27px', serif;
+}
+
+.alert-container {
+    
+}
+
+.callout-container {
+    height: 100vh;
+    
+      background: url("../images/whisky2.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  display: flex;
+  align-items: center;
+}
+
+.quotes-container {
+    
+}
+
+.features-container {
+    
+}
+
+
+/*jumbotron settings*/
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron h1 {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.jumbotron .lead {
+    color: #a7a7a7;
+    margin: 25px 0;
+}
+
+.jumbotron small {
+    font-size: 60%;
+    font-style: italic;
+    color: #d0d0d0;
+}
+
+.block-divider--orange {
+    background-color: #ff6385
+}
+
+.block-divider--short {
+    background-color: #ff6385;
+}
